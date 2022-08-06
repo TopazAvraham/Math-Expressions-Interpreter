@@ -8,6 +8,7 @@
 <br />
   <a href="#Introduction">Introduction</a> •
   <a href="#UML">UML Diagram</a> •
+  <a href="#Expression Examples">Expression Examples</a> •
   <a href="#Installation">Installation</a> •
   <a href="#Personal Details">Personal Details</a> •
   <a href="#Support">Support</a> 
@@ -24,8 +25,8 @@ It can be used in order to:
 * Evaluating expressions.
 * Get expressions variables.
 * Simplfy/Norify/Nandify an expression.
-
-  <br />
+  
+<br />
 
 Basically, I laid out a **system that can represent nested logical expressions
 that include variables, evaluates their values
@@ -43,12 +44,9 @@ for specific variable assignments, converts them, and simplifies the results.**
 
 </p>
 
-
-
 <br />
 
 #Expressions Examples
-
 #### Example 1
 
 <p align="left">
