@@ -120,7 +120,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 4. Open CMD in the cloned directory and run this command:
     ```
     $ ant run
-
+    ```
 ## Built With
 
 - Java
