@@ -50,7 +50,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 
 ## Expressions Examples
 
-#### Example 1
+### Example 1
 
 <p align="left">
 
@@ -65,7 +65,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 
 <br />
 
-#### Example 2
+### Example 2
 
 <p align="left">
 
@@ -82,7 +82,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 
 <br />
 
-#### Example 3
+### Example 3
 
 <p align="left">
 
