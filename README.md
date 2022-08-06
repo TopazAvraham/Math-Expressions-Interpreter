@@ -106,9 +106,8 @@ for specific variable assignments, converts them, and simplifies the results.**
     ```
 
 2. Open the project from an IDE such as Intellij, Eclipse, etc.
-3. Add the biu-oop.jar file as a global library to the Math-Expressions-Interpreter project.
-4. Make sure an updated jdk is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
-5. Create configuration with ExpressionsTest as the Main Class, run it, and enjoy!
+3. Make sure an updated jdk is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
+4. Create configuration with ExpressionsTest as the Main Class, run it, and enjoy!
 
 <br />
 
