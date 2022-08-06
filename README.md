@@ -110,7 +110,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 4. Make sure an updated jdk is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
 5. Create configuration with ExpressionsTest as the Main Class, run it, and enjoy!
 
-
+<br />
 
 ### Option 2 - With Ant
 1. Clone the repository:
