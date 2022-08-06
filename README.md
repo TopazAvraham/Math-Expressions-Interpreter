@@ -15,7 +15,8 @@
 
 </p>
 
-##Introduction
+## Introduction
+
 <p align="left">
 
 A program that interpret logical expressions. 
@@ -36,7 +37,7 @@ for specific variable assignments, converts them, and simplifies the results.**
 <br />
 
 
-##UML Diagram of the project
+## UML Diagram of the project
 
 <p align="center">
 
@@ -46,7 +47,9 @@ for specific variable assignments, converts them, and simplifies the results.**
 
 <br />
 
-##Expressions Examples
+
+## Expressions Examples
+
 #### Example 1
 
 <p align="left">
