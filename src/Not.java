@@ -30,7 +30,7 @@ public class Not extends UnaryExpression {
     }
     @Override
     public String toString() {
-        return ("~(" + getExpression().toString() + ")");
+        return ("¬(" + getExpression().toString() + ")");
     }
     @Override
     public Expression nandify() {

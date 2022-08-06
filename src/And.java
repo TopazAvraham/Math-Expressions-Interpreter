@@ -33,7 +33,7 @@ public class And extends BinaryExpression {
 
     @Override
     public String toString() {
-        return ("(" + getExpression1().toString() + " & " + getExpression2().toString() + ")");
+        return ("(" + getExpression1().toString() + " ∧ " + getExpression2().toString() + ")");
     }
 
     @Override

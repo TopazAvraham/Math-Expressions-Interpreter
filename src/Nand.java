@@ -33,7 +33,7 @@ public class Nand extends BinaryExpression {
 
     @Override
     public String toString() {
-        return ("(" + getExpression1() + " A " + getExpression2() + ")");
+        return ("(" + getExpression1() + " ↑ " + getExpression2() + ")");
     }
 
     @Override

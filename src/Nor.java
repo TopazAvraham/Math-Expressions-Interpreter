@@ -32,7 +32,7 @@ public class Nor extends BinaryExpression {
     }
     @Override
     public String toString() {
-        return ("(" + getExpression1().toString() + " V " + getExpression2().toString() + ")");
+        return ("(" + getExpression1().toString() + " ↓ " + getExpression2().toString() + ")");
     }
     @Override
     public Expression assign(String var, Expression expression) {
