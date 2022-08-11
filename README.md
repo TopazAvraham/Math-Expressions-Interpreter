@@ -105,7 +105,7 @@ It can be used for:
 
 2. Open the project from an IDE such as Intellij, Eclipse, etc.
 3. Make sure an updated JDK is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
-4. Create configuration with ExpressionsTest as the Main Class, run it, and enjoy!
+4. Create a configuration with ExpressionsTest as the Main Class, run it, and enjoy!
 
 <br />
 
