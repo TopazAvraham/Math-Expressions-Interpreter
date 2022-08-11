@@ -100,7 +100,7 @@ It can be used for:
 ### Option 1 - Without Ant
 1. Clone the repository:
     ```
-    $ git clone https://github.com/TopazAvraham/Math-Expressions-Interpreter.git
+    git clone https://github.com/TopazAvraham/Math-Expressions-Interpreter.git
     ```
 
 2. Open the project from an IDE such as Intellij, Eclipse, etc.
