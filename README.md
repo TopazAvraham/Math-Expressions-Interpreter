@@ -10,7 +10,7 @@
   <a href="#UML">UML Diagram</a> •
   <a href="#Expression Examples">Expression Examples</a> •
   <a href="#Installation">Installation</a> •
-  <a href="#Personal Details">Personal Details</a> •
+  <a href="#Author">Author</a> •
   <a href="#Support">Support</a> 
 
 </p>
@@ -131,7 +131,7 @@ It can be used for:
 - Java
 
 
-## Personal Details
+## Author
 
 **Topaz Avraham**
 
