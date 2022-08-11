@@ -19,11 +19,11 @@
 
 <p align="left">
   
-I laid out a **system that can represent nested logical expressions
-that include variables, evaluates their values
-for specific variable assignments, converts them, and simplifies the results.**
+I laid out a **system that represents nested logical expressions
+with variables, evaluates their values
+for specific variable assignments, and simplifies the results.**
 
-A program that interprets logical expressions. 
+Basically, it's a program that interprets logical expressions. 
 It can be used for:
 
 * Automatically differentiate and simplify expressions using logic gates.
