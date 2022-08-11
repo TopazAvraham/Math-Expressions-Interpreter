@@ -18,21 +18,19 @@
 ## Introduction
 
 <p align="left">
-
-A program that interpret logical expressions. 
-It can be used in order to:
-
-* Automatically differentiate and algebraic simplifies expressions with logic gates.
-* Evaluating expressions.
-* Get expressions variables.
-* Simplfy/Norify/Nandify an expression.
   
-<br />
-
-Basically, I laid out a **system that can represent nested logical expressions
+I laid out a **system that can represent nested logical expressions
 that include variables, evaluates their values
 for specific variable assignments, converts them, and simplifies the results.**
 
+A program that interprets logical expressions. 
+It can be used for:
+
+* Automatically differentiate and simplify expressions using logic gates.
+* Evaluate expressions.
+* Get expression's variables.
+* Performs procedures on the expression such as - nandify, norify, etc.
+  
 </p>
 <br />
 
