@@ -104,7 +104,7 @@ It can be used for:
     ```
 
 2. Open the project from an IDE such as Intellij, Eclipse, etc.
-3. Make sure an updated jdk is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
+3. Make sure an updated JDK is set in the configuration, and the src folder of Math-Expressions-Interpreter is set as the source root.
 4. Create configuration with ExpressionsTest as the Main Class, run it, and enjoy!
 
 <br />
@@ -112,13 +112,20 @@ It can be used for:
 ### Option 2 - With Ant
 1. Clone the repository:
     ```
-    $ git clone https://github.com/TopazAvraham/Math-Expressions-Interpreter.git
+    git clone https://github.com/TopazAvraham/Math-Expressions-Interpreter.git
     ```
-2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi) Link to a guide: [Apache Ant Installation Video Windows](https://www.youtube.com/watchv=3eaW81yYIqY&t=353s&ab_channel=xscourse)
-4. Open CMD in the cloned directory and run this command:
+2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi) 
+ 
+   if you're having difficulties with the Ant installation proccess, you can click [here](https://www.youtube.com/watchv=3eaW81yYIqY&t=353s&ab_channel=xscourse) for help. 
+
+<br /> 
+
+3. Open CMD in the cloned directory and run this command:
     ```
-    $ ant run
+    ant run
     ```
+    
+
 ## Built With
 
 - Java
